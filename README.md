@@ -14,8 +14,6 @@ user to see their ticket information printed on the screen.
 
 Some of the Java FX GUI controls utilized are Text Fields, a Text Area, 
 Radio Buttons, Labels, and Buttons. 
-# and two Combo Boxes
-# two Date Pickers
 
 
 ![guiImage_afterReserve](https://user-images.githubusercontent.com/38671335/55820307-cd8c6500-5ac8-11e9-8054-0566a3140c28.PNG)
