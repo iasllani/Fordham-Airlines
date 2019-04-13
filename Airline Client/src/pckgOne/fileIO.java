@@ -4,7 +4,7 @@
 // February 22
 // fileIO.java
 
-package sprint3;
+package pckgOne;
 
 import java.io.BufferedWriter;
 import java.io.FileWriter;
